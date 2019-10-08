@@ -1,0 +1,50 @@
+Full Name	        User Name     Password
+
+Michael Jackson        mjackson       pXDkgSiVFpB
+Bruce Springsteen      bspringsteen   6W2TQ0
+Van Halen              vhalen         e0qTAl8Krefo
+Billy Joel             bjoel          ZD6X8x83rA
+Phil Collins           pcollins       xdOlzAwz
+Janet Jackson          jjackson       WrFd9fl
+Bon Jovi               bjovi          GLSehZOqG0c
+Motley Crue            mcrue          vWfpKPg
+John Mellencamp        jmellencamp    hO0eQl4mitHQ
+Tina Turner            tturner        Fi5sCk
+Ozzy Osbourne          oosbourne      gNoytH
+Pat Benatar            pbenatar       M9hpvi77aDao
+Bryan Adams            badams         YrjIJgQ
+Billy Idol             bidol          ZyCtTHS71g6X
+Rick James             rjames         vzd5WEGE
+Pink Floyd             pfloyd         Q26V2CB
+
+echo "mjackson:pXDkgSiVFpB:::Michael Jackson:/home/mjackson:/bin/bash" | newusers
+
+echo "bspringsteen:6W2TQ0:::Bruce Springsteen:/home/bspringsteen:/bin/bash" | newusers
+
+echo "vhalen:e0qTAl8Krefo:::Van Halen:/home/vhalen:/bin/bash" | newusers
+
+echo "bjoel:ZD6X8x83rA:::Billy Joel:/home/bjoel:/bin/bash" | newusers
+
+echo "pcollins:xdOlzAwz:::Phil Collins:/home/pcollins:/bin/bash" | newusers
+
+echo "jjackson:WrFd9fl:::Janet Jackson:/home/jjackson:/bin/bash" | newusers
+
+echo "bjovi:GLSehZOqG0c:::Bon Jovi:/home/bjovi:/bin/bash" | newusers
+
+echo "mcrue:vWfpKPg:::Motley Crue:/home/mcrue:/bin/bash" | newusers
+
+echo "jmellencamp:hO0eQl4mitHQ:::John Mellencamp:/home/jmellencamp:/bin/bash" | newusers
+
+echo "tturner:Fi5sCk:::Tina Turner:/home/tturner:/bin/bash" | newusers
+
+echo "oosbourne:gNoytH:::Ozzy Osbourne:/home/oosbourne:/bin/bash" | newusers
+
+echo "pbenatar:M9hpvi77aDao:::Pat Benatar:/home/pbenatar:/bin/bash" | newusers
+
+echo "badams:YrjIJgQ:::Bryan Adams:/home/badams:/bin/bash" | newusers
+
+echo "bidol:ZyCtTHS71g6X:::Billy Idol:/home/bidol:/bin/bash" | newusers
+
+echo "rjames:vzd5WEGE:::Rick James:/home/rjames:/bin/bash" | newusers
+
+echo "pfloyd:Q26V2CB:::Pink Floyd:/home/pfloyd:/bin/bash" | newusers
